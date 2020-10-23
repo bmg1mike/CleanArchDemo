@@ -1,2 +1,2 @@
 # CleanArchDemo
-Overview Of CleanArch
+A University Application using CQRS and the Mediator Pattern in Clean Architecture
